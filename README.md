@@ -1,6 +1,6 @@
 # Triam-Udom-Report-System
 <html lang="th">
-  <body style="background-color: #ee82ee;">
+  <body style="background-color: #f8bbd0;">
 <head>
   <meta charset="UTF-8" />
   <title>ระบบรับแจ้งปัญหาและข้อขัดข้องในการปฏิบัติงาน โรงเรียนเตรียมอุดมศึกษา</title>
@@ -15,7 +15,7 @@
       margin: 0;
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
         sans-serif;
-      background: #f4f6fb;
+      background: #ECD4D4;
       color: #222;
     }
 
