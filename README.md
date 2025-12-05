@@ -1,4 +1,4 @@
-# TURS: Triam Udom Report System
+# TURS
 <html lang="th">
   <body style="background-color: #f8bbd0;">
 <head>
