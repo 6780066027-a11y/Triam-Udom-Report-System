@@ -2,7 +2,7 @@
 <html lang="th">
 <head>
   <meta charset="UTF-8" />
-  <title>ระบบรายงานปัญหา โรงเรียนเตรียมอุดมศึกษา</title>
+  <title>ระบบรายงาน โรงเรียนเตรียมอุดมศึกษา</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
     /* ------- โครงร่างและฟอนต์พื้นฐาน ------- */
