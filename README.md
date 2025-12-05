@@ -323,7 +323,7 @@
           <input
             type="text"
             id="userDept"
-            placeholder="ตัวอย่าง: ม.5/3, กลุ่มสาระภาษาไทย"
+            placeholder="ตัวอย่าง: ตึกคุณหญิงหรั่งฯ, กลุ่มสาระภาษาไทย"
           />
         </div>
 
